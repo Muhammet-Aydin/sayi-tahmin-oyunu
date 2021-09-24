@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_16._09._2021_sayı_tahmın_oyunu</RootNamespace>
+  </PropertyGroup>
+
+</Project>
